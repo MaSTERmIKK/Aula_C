@@ -6,7 +6,7 @@ int main() {
     int numero = 0;
 
     printf("Inserisci il giorno della settimana (in minuscolo): ");
-    scanf("%s", giorno);
+    scanf("%14s", giorno);
 
     // Conversione parola in numero
     if (strcmp(giorno, "lunedi") == 0 || strcmp(giorno, "lunedì") == 0)
