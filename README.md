@@ -1,2 +1,3 @@
 # Aula_C
-Qui c'è la descrizione
+
+Repository di un Aula di formazione in C 
